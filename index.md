@@ -4,4 +4,5 @@ Or it will.
 
 Who can say.
 
-https://digital-demon.github.io/Xyno/test/
+https://digital-demon.github.io/Xyno/test.html
+
